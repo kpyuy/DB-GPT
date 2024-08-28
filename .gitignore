@@ -9,7 +9,7 @@ message/
 dbgpt/util/extensions/
 .env*
 .vscode
-.idea
+#.idea
 .chroma
 # Distribution / packaging
 .Python
@@ -159,7 +159,6 @@ thirdparty
 # dependencies
 /web/node_modules
 
-.idea
 # next.js
 /web/.next/
 /web/out/

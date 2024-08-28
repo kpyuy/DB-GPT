@@ -157,6 +157,7 @@ thirdparty
 #web
 # dependencies
 /web/node_modules
+/web/yarn.lock
 
 # next.js
 /web/.next/
